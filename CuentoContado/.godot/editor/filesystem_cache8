@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738340802
+icon.svg::CompressedTexture2D::1562861833392488619::1712322797::1712322801::1::::<><>::
+::res://Dibujos/::1715696530
+::res://Scenes/::1716145340
+Cuento.tscn::PackedScene::8933369157603402287::1716145340::0::1::::<><>::res://Scripts/Cuento.gd<>uid://dn274yoslp5a0::::res://Sprites/comic_sana.ttf
+::res://Scripts/::1716140121
+Cuento.gd::GDScript::-1::1716139990::0::1::::<>Panel<>::
+::res://Sprites/::1716140122
+comic_sana.ttf::FontFile::8129451232545933817::1697654048::1712324282::1::::<><>::

@@ -1,0 +1,55 @@
+"(aquí inicia esta historia, para obtener más información diríjase a: ???)
+
+#N - #TT
+
+#TC
+
+> Siguiente: #A"
+"(si es la primera vez que lee esta historia, ver capítulo: #I)
+
+#N - #TT
+
+#TC
+
+> Opción A:
+
+#TA
+
+(A) ver: #A
+
+> Opción B:
+
+#TB
+
+(B) ver: #B"
+"(si es la primera vez que lee esta historia, ver capítulo: #I)
+
+#N - #TT
+
+#TC
+
+> siguiente: #A"
+"(si es la primera vez que lee esta historia, ver capítulo: #I)
+
+#N - #TT
+
+#TC
+
+> Este es un final, gracias por leer!!!"
+"Portada Inicial
+#---
+Título y Autor
+#---
+Acerca de la Obra
+#---
+Contenido Índices
+#---
+#ALL
+#---
+Mapa de Capítulos
+#---
+Anexos
+#---
+Biografía
+#---
+Portada Final"
